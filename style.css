@@ -1,0 +1,11 @@
+div.infiniteScroll {
+	width: 6000px;
+	border: 1px solid black;
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+}
+
+ul li {
+	list-style: none;
+}
